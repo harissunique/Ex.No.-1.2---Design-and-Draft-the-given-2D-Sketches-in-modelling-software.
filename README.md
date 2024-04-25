@@ -37,7 +37,8 @@
 
  ## OUTPUT
 
-![Screenshot 2024-04-16 100012](https://github.com/harissunique/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/147139338/aef2b552-1454-47cc-8e3e-fec4a8260896)
+![Screenshot 2024-04-16 100012](https://github.com/harissunique/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/147139338/717a2421-810c-445c-86b8-babb1e4fcdcf)
+
 
 
  
